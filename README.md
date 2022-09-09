@@ -12,4 +12,4 @@ We introduce a self-supervised method for automatically extracting color-concept
 ![image](https://github.com/ZiqiYe77/CCAIC/blob/main/docs/overview.png)
 
 ## Getting started
-First, please read **Environment** for initial environment setting. Then, for users who want to just use our pre-trained model, please go to **Colorization Network**. And for users who want to map their probability distribution generated from network to the final color-concept associations, please read **color mapping** for more help. 
+First, please read **Environment** for initial environment setting. Then, for users who want to just use our pre-trained model, please go to **Colorization Network**. And for users who want to map their probability distribution generated from network to the final color-concept associations, please read **Color Mapping** for more help. 
