@@ -13,7 +13,7 @@ We introduce a self-supervised method for automatically extracting color-concept
 
 ## Getting started
 ### (0) Denpendency & Environment ###
-This code needs to be executed under the Caffe environment and the basic Python library (Numpy, Pyplot, Skimage, SCIPY).For guidelines and help on installing Caffe, see the [installation guide](http://caffe.berkeleyvision.org/) and [Caffe users group](https://groups.google.com/forum/#!forum/caffe-users).
+This code needs to be executed under the Caffe environment and the basic Python library (Numpy, Pyplot, Skimage, SCIPY).For guidelines and help on installing [Caffe](http://caffe.berkeleyvision.org/), see the [installation guide](http://caffe.berkeleyvision.org/installation.html) and [Caffe users group](https://groups.google.com/forum/#!forum/caffe-users).
 
 ### (1) Data Collection ###
 For users need to collect images for the specified concept, please go to [Data Collection](https://github.com/hardikvasa/google-images-download) to get Google Images for download. 
