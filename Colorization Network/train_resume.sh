@@ -1,0 +1,1 @@
+./caffe-colorization/build/tools/caffe train -solver ./train/solver.prototxt -snapshot ./train/model_true100veg/colornet_iter_9500.solverstate -gpu $1
