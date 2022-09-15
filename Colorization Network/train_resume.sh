@@ -1,1 +1,1 @@
-./caffe-colorization/build/tools/caffe train -solver ./train/solver.prototxt -snapshot ./train/colornet_iter_ITERNUMBER.solverstate -gpu $1
+./caffe-colorization/build/tools/caffe train -solver ./train/solver.prototxt -snapshot ./train/models/colornet_iter_n.solverstate -gpu $1
