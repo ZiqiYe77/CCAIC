@@ -1,4 +1,6 @@
 # Colorization Network
+![Teaser Image](https://github.com/ZiqiYe77/CCAIC/blob/main/docs/network_v3.png)</b>
+
 ## Pre -processing
 (A) <b>Generation of TXT file. </b>
 After collecting the image dataset, we need to convert them to LMDB files. Run `./Data_preprocess.py` to get a picture list file `./train.txt`.<br>
