@@ -1,5 +1,6 @@
 # Color Mapping
-![Teaser Image](https://github.com/ZiqiYe77/CCAIC/blob/main/docs/ColorMapping.png)</b>
+
+<div align=center><img src="https://github.com/ZiqiYe77/CCAIC/blob/main/docs/ColorMapping.png" width="60%"></div>
 
 
 (A) <b>Image background pixel processing. </b>

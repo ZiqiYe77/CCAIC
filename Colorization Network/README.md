@@ -1,5 +1,7 @@
 # Colorization Network
-![Teaser Image](https://github.com/ZiqiYe77/CCAIC/blob/main/docs/network_v3.png)</b>
+
+<div align=center><img src="https://github.com/ZiqiYe77/CCAIC/blob/main/docs/network_v3.png" width="60%"></div>
+
 
 ## Pre -processing
 (A) <b>Generation of TXT file. </b>
