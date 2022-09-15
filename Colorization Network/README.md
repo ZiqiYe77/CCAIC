@@ -21,7 +21,7 @@ Modify **source** in **data_param** `./models/colorization_train_val_v2.prototxt
 
 (C) <b>Start training. </b>
 Run `./train/train_model.sh [GPU_ID]`, where [GPU_ID] is the gpu you choose to specify. 
-During the training process, every 1000 iterations will generate snapshots about `colornet_iter_[ITERNUMBER].caffemodel` and `colornet_iter_[ITERNUMBER].solverstate`, which can be used to resume network training when training is interupted. You can run `./train_resume.sh` and specify ITERNUMBER(iterations) in the `train_resume.sh`
+During the training process, every 1000 iterations will generate snapshots about `colornet_iter_[ITERNUMBER].caffemodel` and `colornet_iter_[ITERNUMBER].solverstate`, which can be used to resume network training when training is interupted. You can run `./train_resume.sh` and specify ITERNUMBER(iterations) in the `train_resume.sh`.
 
 (D) <b>Get color probability distribution. </b>
 After getting the final Caffemodel, run `python Output_313pro.py` to get the final probability distribution, and the final output is npy file.
