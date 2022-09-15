@@ -1,6 +1,6 @@
 #-*- coding: UTF-8 -*-
-### 数据集中有部分图像是灰度图，把它们转成RGB并原地保存
-### 原本的灰度图和列表保存在 gray-scale images 文件夹
+### There are some images of data sets that are gray charts, we should turn them into RGB and save them in place
+### The original grayscale images and lists are saved in the Gray-Scale Images folder
 
 import os
 import cv2
